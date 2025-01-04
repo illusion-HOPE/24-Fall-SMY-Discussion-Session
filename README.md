@@ -22,7 +22,7 @@ This is my Advanced Algebra I course website, especially set for my dear friend 
 
 ---
 
-**Final Exam:** [Click here!](./Beamers/24%20Fall-%20Final%20Exam.pdf)
+**Final Exam:** [Click here!](./HW/24%20Fall-%20Final%20Exam.pdf)
 
 ---
 
