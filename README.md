@@ -1,5 +1,5 @@
 # 24-Fall-SMY-Discussion-Session
-This is my Advanced Algebra I course website, especially set for my dear friend smy.
+This is my Advanced Algebra I course website, set for a guy, smy.
 
 ---
 
